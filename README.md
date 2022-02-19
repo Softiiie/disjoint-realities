@@ -15,6 +15,7 @@
     - [Branches](#branches)
     - [Spores](#spores)
     - [Universes](#universes)
+- [Alternatives](#alternatives)
 - [Chronology](#chronology)
     - [Canons/Timelines](#canonstimelines)
 - [Licensing](#licensing)
@@ -85,6 +86,65 @@ Branches do not possess leaves or any sort of variation, looking more like cones
 ### Universes
 
 **Universes** are to be taken in the [litteral sense](https://en.wikipedia.org/wiki/Universe).
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## Alternatives
+
+All Universes are of course not identical, hence why across them one may come across what can be called **Alternatives**<!-- NOT a reference to Mandela Catalogue! -->.<br>
+Alternatives can be organized in an uncountable amount of manners, although here they will be split into several categories [~~that I totally did not take from Dwarf Fortress (and its wiki) down to the escription kind of out of sloth~~](https://dwarffortresswiki.org/index.php/DF2014:Quest#Quest_log):
+
+&nbsp;
+
+### Intrigue
+
+Staples of the Universe's Canon(s), its main _"""storyline"""_.
+
+&nbsp;
+
+### Events
+
+Events that are happening or have happened in the past.
+
+&nbsp;
+
+### People
+
+People and other historical figures.
+
+&nbsp;
+
+### Groups
+
+Entities, including civilizations, site governments, etc.
+
+&nbsp;
+
+### Bestiary
+
+Creatures from around the world, along with their descriptions, where to find them, etc.
+
+&nbsp;
+
+### Regions
+
+Regions of the world.
+
+&nbsp;
+
+### Sites
+
+Various sites around the world.
+
+&nbsp;
+
+### Artifacts
+
+Basically encompasses all objects and items ~~and I totally did not kept this section name because of Dwarf Fortress~~.
 
 &nbsp;
 
