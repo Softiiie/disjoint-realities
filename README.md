@@ -1,2 +1,2 @@
 # disjoint-realities
-Disjoint-Realities repository ; Main branch
+Disjoint-Realities repository ; Academic branch
