@@ -101,7 +101,7 @@ Time is a very important factor in the Disjoint Realities:
 ### Canons/Timelines
 
 All **Universes** follow a certain sequence of events, ultimately called a **Timeline** or a **Canon**.<br>
-Several Canons can belong to a same universe, and of course, although Canons are often viewed at the scale of Universes, they of course affect the rest of the **Structure** (*eg.* other Universes, Trees, etc).
+Several Canons can belong to a same universe, and of course, although Canons are often viewed at the scale of Universes, they of course affect the rest of the [Structure](#structure) (*eg.* other Universes, Trees, etc).
 
 &nbsp;
 
