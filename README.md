@@ -7,6 +7,21 @@
 **Contents**:
 - [About](#about)
 - [Structure](#structure)
+    - [Sets](#sets)
+        - [Perfect Void](#perfect-void)
+        - [Positive Sets](#positive-sets)
+        - [Negative Sets](#negative-sets)
+    - [Cells/Trees](#cellstrees)
+    - [Branches](#branches)
+    - [Spores](#spores)
+    - [Universes](#universes)
+- [Chronology](#chronology)
+    - [Canons/Timelines](#canonstimelines)
+- [Licensing](#licensing)
+
+&nbsp;
+
+---
 
 &nbsp;
 
@@ -14,7 +29,11 @@
 
 This repository aims at creating a database full of diverse realities, stylistically and aesthetically inspired, influenced or even forked from the [SCP Foundation](https://scp-wiki.wikidot.com/).
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Structure
 
@@ -67,7 +86,28 @@ Branches do not possess leaves or any sort of variation, looking more like cones
 
 **Universes** are to be taken in the [litteral sense](https://en.wikipedia.org/wiki/Universe).
 
+&nbsp;
+
 ---
+
+&nbsp;
+
+## Chronology
+
+Time is a very important factor in the Disjoint Realities:
+
+&nbsp;
+
+### Canons/Timelines
+
+All **Universes** follow a certain sequence of events, ultimately called a **Timeline** or a **Canon**.<br>
+Several Canons can belong to a same universe, and of course, although Canons are often viewed at the scale of Universes, they of course affect the rest of the **Structure** (*eg.* other Universes, Trees, etc).
+
+&nbsp;
+
+---
+
+&nbsp;
 
 ## Licensing
 
