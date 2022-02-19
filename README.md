@@ -53,13 +53,13 @@ Each Tree bears the name of the _**totally coincidental**_ chemical element of t
 ### Branches
 
 Each Tree bears a varying amount of **Branches**.<br>
-Branches do not possess leaves or any sort of variation, instead they possess **Spores** (*see next section*).
+Branches do not possess leaves or any sort of variation, looking more like cones sticking out of the Trees' trunk than realistic branches, instead they possess **Spores** (*see next section*).<br>
 
 &nbsp;
 
 ### Spores
 
-**Spores** gravitate around Tree's Branches, just as [electrons](https://en.wikipedia.org/wiki/Electron) gravitate around the [atomic nucleus](https://en.wikipedia.org/wiki/Atomic_nucleus).
+**Spores** gravitate around Trees' Branches, just as [electrons](https://en.wikipedia.org/wiki/Electron) gravitate around the [atomic nucleus](https://en.wikipedia.org/wiki/Atomic_nucleus).
 
 &nbsp;
 
@@ -73,7 +73,7 @@ Branches do not possess leaves or any sort of variation, instead they possess **
 
 **For additional information, see the [license](LICENSE) file.**
 
-Disjoint Realities are licensed under the `Apache License`, with the credits for the original Disjoint Realities (*this very repository's content*) going to `Softiie` (*me lol*).
+Disjoint Realities are licensed under the `Apache License 2.0`, with the credits for the original Disjoint Realities (*this very repository's content*) going to `Softiie` (*me lol*).
 
 The section you are probably interested in reading is the fourth section: *"Redistribution"* (*hereafter quoted, albeit shortened*).
 
