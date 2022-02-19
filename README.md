@@ -14,20 +14,18 @@
 
 This repository aims at creating a database full of diverse realities, stylistically and aesthetically inspired, influenced or even forked from the [SCP Foundation](https://scp-wiki.wikidot.com/).
 
-&nbsp;
-
 ---
-
-&nbsp;
 
 ## Structure
 
 The Disjoint Realities are structured in a quite specific way:
 
+&nbsp;
+
 ### Sets
 
 First come the **Sets**.<br>
-To help you understand and visualize them better, imagine an horizontal axis. On this axis are found an infinite amount of sets, next to each other, just like real numbers ($\R$).
+To help you understand and visualize them better, imagine an horizontal axis. On this axis are found an infinite amount of sets, next to each other, just like real numbers <!--($\R$)-->.
 
 #### Perfect Void
 
@@ -69,11 +67,7 @@ Branches do not possess leaves or any sort of variation, instead they possess **
 
 **Universes** are to be taken in the [litteral sense](https://en.wikipedia.org/wiki/Universe).
 
-&nbsp;
-
 ---
-
-&nbsp;
 
 ## Licensing
 
