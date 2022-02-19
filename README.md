@@ -1,6 +1,6 @@
-# DISJOINT REALITIES ; Academic branch
+# DISJOINT REALITIES
 
-> A SCP-influenced database of realities.
+<!-- > A SCP-influenced database of realities.-->
 
 &nbsp;
 
@@ -16,14 +16,15 @@
     - [Branches](#branches)
     - [Spores](#spores)
     - [Universes](#universes)
-- [Alternatives](#alternatives)
-    - [Intrigue](#intrigue)
-    - [Events](#events)
-    - [People](#events)
-    - [Groups](#groups)
-    - [Regions](#regions)
-    - [Sites](#sites)
-    - [Artifacts](#artifacts)
+- [Properties](#properties)
+    - [Alternatives](#alternatives)
+        - [Intrigue](#intrigue)
+        - [Events](#events)
+        - [People](#events)
+        - [Groups](#groups)
+        - [Regions](#regions)
+        - [Sites](#sites)
+        - [Artifacts](#artifacts)
 - [Chronology](#chronology)
     - [Canons/Timelines](#canonstimelines)
 - [Licensing](#licensing)
@@ -101,57 +102,63 @@ Branches do not possess leaves or any sort of variation, looking more like cones
 
 &nbsp;
 
-## Alternatives
+## Properties
+
+From each **Structure element**'s variety of characteristics come variables, herein called **Alternatives**.
+
+&nbsp;
+
+### Alternatives
 
 All Universes are of course not identical, hence why across them one may come across what can be called **Alternatives**<!-- NOT a reference to Mandela Catalogue! -->.<br>
 Alternatives can be organized in an uncountable amount of manners, although here they will be split into several categories [~~that I totally did not take from Dwarf Fortress (and its wiki) down to the description kind of out of sloth~~](https://dwarffortresswiki.org/index.php/DF2014:Quest#Quest_log):
 
 &nbsp;
 
-### Intrigue
+#### Intrigue
 
 Staples of the Universe's Canon(s), its main _"""storyline"""_.
 
 &nbsp;
 
-### Events
+#### Events
 <!-- µ MERGE WITH 'Intrigue'? -->
 
 Events that are happening or have happened in the past.
 
 &nbsp;
 
-### People
+#### People
 
 People and other historical figures.
 
 &nbsp;
 
-### Bestiary
+#### Bestiary
 
 Creatures from around the world, along with their descriptions, where to find them, etc.
 
 &nbsp;
 
-### Groups
+#### Groups
 
 Entities, including civilizations, site governments, etc.
 
 &nbsp;
 
-### Regions
+#### Regions
 
 Regions of the world.
 
 &nbsp;
 
-### Sites
+#### Sites
 
 Various sites around the world.
 
 &nbsp;
 
-### Artifacts
+#### Artifacts
 
 Basically encompasses all objects and items ~~and I totally did not kept this section name because of Dwarf Fortress~~.
 
