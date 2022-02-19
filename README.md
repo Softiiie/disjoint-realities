@@ -1,10 +1,11 @@
 # DISJOINT REALITIES ; Academic branch
 
-> A SCP-inspired database of realities.
+> A SCP-influenced database of realities.
 
 &nbsp;
 
-**Contents**:
+## Contents:
+<!--**Contents**:-->
 - [About](#about)
 - [Structure](#structure)
     - [Sets](#sets)
@@ -35,7 +36,7 @@
 
 ## About
 
-This repository aims at creating a database full of diverse realities, stylistically and aesthetically inspired, influenced or even forked from the [SCP Foundation](https://scp-wiki.wikidot.com/).
+This repository aims at creating a database full of diverse realities, stylistically and aesthetically inspired, influenced or even "forked" from the [SCP Foundation](https://scp-wiki.wikidot.com/).
 
 &nbsp;
 
