@@ -153,7 +153,7 @@ Various sites around the world.
 
 ### Artifacts
 
-Basically encompasses all objects and items ~~and I totally did not kept this section name because of Dwarf Fortress~~.
+Basically encompasses all objects and items ~~and I totally did not keep this section name because of Dwarf Fortress~~.
 
 &nbsp;
 
