@@ -7,6 +7,8 @@
 ## Contents:
 <!--**Contents**:-->
 - [About](#about)
+- [Styles](#styles)
+    - [Academic](#academic)
 - [Structure](#structure)
     - [Sets](#sets)
         - [Perfect Void](#perfect-void)
@@ -38,7 +40,51 @@
 
 ## About
 
-This repository aims at creating a database full of diverse realities, stylistically and aesthetically inspired, influenced or even "forked" from the [SCP Foundation](https://scp-wiki.wikidot.com/).
+This repository is about archiving ideas about different little Universes/Stories and the such ; all the while being presented in different writing and storytelling styles.
+
+<!--This repository aims at creating a database full of diverse realities, stylistically and aesthetically inspired, influenced or even "forked" from the [SCP Foundation](https://scp-wiki.wikidot.com/).-->
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## Styles
+
+The *Disjoint Realities* are an assembly of different little ideas for worlds, characters and stories, ultimately culminating in a database full of entries. These entries need to be presented, brought about, recorded ; which calls for writing.<br>
+As such, the writing for these entries can absolutely take about any form, meaning a lot of different writing **styles** can emerge.
+
+Here, styles both do and do not belong to litterature.<br>
+They also mainly here refer to what one may call a "**P**oint **O**f **V**iew" for the writer(s).
+
+> But what does that mean?
+
+This means that each styles corresponds to a "scenario"/POV/prism through which the writer(s) *wrote* the entry.
+
+In case you aren't sure you got what Styles were, take a look at the Styles sections themselves, which might be easier to get for the non-initiated.
+
+&nbsp;
+
+### Academic
+
+The **Academic** `S`tyle is a style in which the *Disjoint Realities* database takes a `s`tyle akin to that of the [SCP Foundation](https://scp-wiki.wikidot.com/).
+
+This means that each entry is written as if it was for research/study purposes. Being very (on point) academic, scientific and formal.
+
+In case of a doubt, simply take a look at a few [SCP Objects articles](https://scp-wiki.wikidot.com/random:random-scp), which will surely give you a brighter idea about what this Style entails.
+
+&nbsp;
+
+### ... and?
+
+More Styles (hopefully) are to come, they may not be listed "here", but should you think a little, you may find a way to check what Styles are in the workings after the Academic one...
+
+<!--
+styles to (maybe) come:
+    - Litterary
+    - Apocalyptic
+-->
 
 &nbsp;
 
