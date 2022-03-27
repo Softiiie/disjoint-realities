@@ -11,6 +11,7 @@
 - [About](#about)
 - [Styles](#styles)
     - [Academic](#academic)
+    - [... and?](#and)
 - [Structure](#structure)
     - [Sets](#sets)
         - [Perfect Void](#perfect-void)
@@ -70,7 +71,7 @@ In case you aren't sure you got what Styles were, take a look at the Styles sect
 
 ### Academic
 
-The **Academic** `S`tyle is a style in which the *Disjoint Realities* database takes a `s`tyle akin to that of the [SCP Foundation](https://scp-wiki.wikidot.com/).
+The **Academic** `S`tyle is a `s`tyle in which the *Disjoint Realities* database takes a style akin to that of the [SCP Foundation](https://scp-wiki.wikidot.com/).
 
 This means that each entry is written as if it was for research/study purposes. Being very (on point) academic, scientific and formal.
 
@@ -78,7 +79,7 @@ In case of a doubt, simply take a look at a few [SCP Objects articles](https://s
 
 &nbsp;
 
-### ... and?
+### and?
 
 More Styles (hopefully) are to come, they may not be listed "here", but should you think a little, you may find a way to check what Styles are in the workings after the Academic one...
 
