@@ -1,5 +1,7 @@
 # DISJOINT REALITIES
 
+> A database of ideas for Worlds, Entities and Stories.
+
 <!-- > A SCP-influenced database of realities.-->
 
 &nbsp;
