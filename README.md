@@ -174,10 +174,26 @@ Time is a very important factor in the Disjoint Realities:
 
 &nbsp;
 
+### Canons
+
+A **Canon** is a storyline.<br>
+It creates, removes, uses [...] properties (Alternatives...) and concepts in order to construct said storyline's chronology.
+
+&nbsp;
+
+### Timelines
+
+A **Timeline** is a subsidiary unit to Canons.<br>
+Unlike Canons, Timelines are a *spin* on the elements and their relation/interactions used in the Canon.
+
+In the vast majority of time, Timelines will **not** create, remove, use [...] properties (Alternatives...) ; if they ever do, it is very often *de facto* as to avoid any discrepancy in the chronology/storyline.
+
+<!--
 ### Canons/Timelines
 
 All **Universes** follow a certain sequence of events, ultimately called a **Timeline** or a **Canon**.<br>
 Several Canons can belong to a same universe, and of course, although Canons are often viewed at the scale of Universes, they of course affect the rest of the [Structure](#structure) (*eg.* other Universes, Trees, etc).
+-->
 
 &nbsp;
 
@@ -189,7 +205,7 @@ Several Canons can belong to a same universe, and of course, although Canons are
 
 **For additional information, see the [license](LICENSE) file.**
 
-Disjoint Realities are licensed under the `Apache License 2.0`, with the credits for the original Disjoint Realities (*this very repository's content*) going to `Softiie` (*me lol*).
+The *Disjoint Realities* are licensed under the `Apache License 2.0`, with the credits for the original *Disjoint Realities* (*this very repository's content*) going to `Softiie` (*me lol*).
 
 The section you are probably interested in reading is the fourth section: *"Redistribution"* (*hereafter quoted, albeit shortened*).
 
