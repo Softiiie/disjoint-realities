@@ -26,7 +26,8 @@
         - [Sites](#sites)
         - [Artifacts](#artifacts)
 - [Chronology](#chronology)
-    - [Canons/Timelines](#canonstimelines)
+    - [Canons](#canons)
+    - [Timelines](#timelines)
 - [Licensing](#licensing)
 
 &nbsp;
@@ -170,14 +171,14 @@ Basically encompasses all objects and items ~~and I totally did not kept this se
 
 ## Chronology
 
-Time is a very important factor in the Disjoint Realities:
+Time is a very important factor in the Disjoint Realities, also is it divided in two "units":
 
 &nbsp;
 
 ### Canons
 
 A **Canon** is a storyline.<br>
-It creates, removes, uses [...] properties (Alternatives...) and concepts in order to construct said storyline's chronology.
+It creates, removes, uses [...] *properties* (Alternatives...) and concepts in order to construct said storyline's chronology.
 
 &nbsp;
 
@@ -186,7 +187,7 @@ It creates, removes, uses [...] properties (Alternatives...) and concepts in ord
 A **Timeline** is a subsidiary unit to Canons.<br>
 Unlike Canons, Timelines are a *spin* on the elements and their relation/interactions used in the Canon.
 
-In the vast majority of time, Timelines will **not** create, remove, use [...] properties (Alternatives...) ; if they ever do, it is very often *de facto* as to avoid any discrepancy in the chronology/storyline.
+In the vast majority of time, Timelines will **not** create, remove, use [...] *properties* (Alternatives...) ; if they ever do, it is very often *de facto* as to avoid any discrepancy in the chronology/storyline.
 
 <!--
 ### Canons/Timelines
@@ -205,7 +206,19 @@ Several Canons can belong to a same universe, and of course, although Canons are
 
 **For additional information, see the [license](LICENSE) file.**
 
-The *Disjoint Realities* are licensed under the `Apache License 2.0`, with the credits for the original *Disjoint Realities* (*this very repository's content*) going to `Softiie` (*me lol*).
+The *Disjoint Realities* are licensed under the `Apache License 2.0`, with the credits for the original *Disjoint Realities* (*this very repository's content*) going to `Softiie` (*me lol*).<br><br>
+
+<!--&nbsp;-->
+
+> Copyright 2022 Softiie
+> 
+> Licensed under the Apache License, Version 2.0 (the "License");
+> you may not use this file except in compliance with the License.
+> You may obtain a copy of the License at
+> 
+> http://www.apache.org/licenses/LICENSE-2.0
+
+&nbsp;
 
 The section you are probably interested in reading is the fourth section: *"Redistribution"* (*hereafter quoted, albeit shortened*).
 
