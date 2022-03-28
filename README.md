@@ -11,7 +11,7 @@
 - [About](#about)
 - [Styles](#styles)
     - [Academic](#academic)
-    - [... and?](#and)
+    - [and?](#and)
 - [Structure](#structure)
     - [Sets](#sets)
         - [Perfect Void](#perfect-void)
