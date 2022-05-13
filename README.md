@@ -58,8 +58,7 @@ This repository is about archiving ideas about different little Universes/Storie
 The *Disjoint Realities* are an assembly of different little ideas for worlds, characters and stories, ultimately culminating in a database full of entries. These entries need to be presented, brought about, recorded ; which calls for writing.<br>
 As such, the writing for these entries can absolutely take about any form, meaning a lot of different writing **styles** can emerge.
 
-Here, styles both do and do not belong to litterature.<br>
-They also mainly here refer to what one may call a "**P**oint **O**f **V**iew" for the writer(s).
+Here, styles both do and do not belong to litterature, as they also mainly refer to what one may call a "**P**oint **O**f **V**iew" for the writer(s).
 
 > But what does that mean?
 
@@ -161,7 +160,7 @@ From each **Structure element**'s variety of characteristics come variables, her
 ### Alternatives
 
 All Universes are of course not identical, hence why across them one may come across what can be called **Alternatives**<!-- NOT a reference to Mandela Catalogue! -->.<br>
-Alternatives can be organized in an uncountable amount of manners, although here they will be split into several categories [~~that I totally did not take from Dwarf Fortress (and its wiki) down to the description kind of out of sloth~~](https://dwarffortresswiki.org/index.php/DF2014:Quest#Quest_log):
+Alternatives can be organized in an uncountable amount of manners, although here they will be split into several categories [~~that I totally did not take from Dwarf Fortress (and its wiki) down to the description out of love for this game~~](https://dwarffortresswiki.org/index.php/DF2014:Quest#Quest_log):
 
 &nbsp;
 
@@ -255,11 +254,11 @@ Several Canons can belong to a same universe, and of course, although Canons are
 
 **For additional information, see the [license](LICENSE) file.**
 
-The *Disjoint Realities* are licensed under the `Apache License 2.0`, with the credits for the original *Disjoint Realities* (*this very repository's content*) going to `Softiie` (*me lol*).<br><br>
+The *Disjoint Realities* are licensed under the `Apache License 2.0`, with the credits for the original *Disjoint Realities* (*this very repository's content*) going to `Softiiie` (*me lol*):<br><br>
 
 <!--&nbsp;-->
 
-> Copyright 2022 Softiie
+> Copyright 2022 Softiiie
 > 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
