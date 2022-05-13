@@ -76,7 +76,7 @@ The **Meta** Style is a style in which the *Disjoint Realities* Database takes a
 
 This means that each entry is written in the aim of creating an encyclopedia of everything in the database.
 
-It is one of (if not *the*) most "epurated" stylistic prism, as it simply *presents* all elements of the database and how they are organized and relate to each other.
+It is one of (if not *the*) most "epurated" stylistic prism, as it simply *presents* all elements of the database, how they are organized and relate to each other.
 
 &nbsp;
 
