@@ -10,6 +10,7 @@
 <!--**Contents**:-->
 - [About](#about)
 - [Styles](#styles)
+    - [Meta](#meta)
     - [Academic](#academic)
     - [and?](#and)
 - [Structure](#structure)
@@ -26,6 +27,7 @@
         - [Intrigue](#intrigue)
         - [Events](#events)
         - [People](#events)
+        - [Bestiary](#bestiary)
         - [Groups](#groups)
         - [Regions](#regions)
         - [Sites](#sites)
@@ -68,23 +70,36 @@ In case you aren't sure you got what Styles were, take a look at the Styles sect
 
 &nbsp;
 
+### Meta
+
+The **Meta** Style is a style in which the *Disjoint Realities* Database takes a style which could be compared to that of [Wikipedia](wikipedia.org).
+
+This means that each entry is written in the aim of creating an encyclopedia of everything in the database, it one of (if not *the*) most epurated stylistic prism, as it simply *presents* all elements of the database and how they are organized and relate to each other.
+
+&nbsp;
+
 ### Academic
 
-The **Academic** `S`tyle is a `s`tyle in which the *Disjoint Realities* database takes a style akin to that of the [SCP Foundation](https://scp-wiki.wikidot.com/).
+The **Academic** `S`tyle is a `s`tyle in which the *Disjoint Realities* Database takes a style akin to that of the [SCP Foundation](https://scp-wiki.wikidot.com/).
 
 This means that each entry is written as if it was for research/study purposes. Being very (on point) academic, scientific and formal.
 
 In case of a doubt, simply take a look at a few [SCP Objects articles](https://scp-wiki.wikidot.com/random:random-scp), which will surely give you a brighter idea about what this Style entails.
 
+> #### NOTE:
+> The Academic Style was originally thought to be the first and "main"/default style to come, however, as the project started setting itself up, the Meta Style started to appear as a better suited first approach to the Disjoint Realities Database, and has thus replaced the Academic Style in that regard, to which the latter's development was halted **for the time being**.
+
 &nbsp;
 
 ### and?
 
-More Styles (hopefully) are to come, they may not be listed "here", but should you think a little, you may find a way to check what Styles are in the workings after the Academic one...
+More Styles (hopefully) are to come, they may not be listed "here", but should you think a little, you may find a way to check what Styles are in the workings after the Meta one...
 
 <!--
 styles to (maybe) come:
     - Litterary
+        - Apocrypha
+        - Holy
     - Apocalyptic
 -->
 
