@@ -277,29 +277,6 @@ The *Disjoint Realities* are licensed under the `Attribution-NonCommercial-Share
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-<!-- UNUSED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-> Copyright 2022 Softiiie
-> 
-> Licensed under the Apache License, Version 2.0 (the "License");
-> you may not use this file except in compliance with the License.
-> You may obtain a copy of the License at
-> 
-> http://www.apache.org/licenses/LICENSE-2.0
-
-&nbsp;
-
+<!-- Remnant of the previous use of the Apache 2.0 License, i just found the phrasing cool and i don't want to loose it lol
+======> I WANT TO MAKE CLEAR THAT THIS IS NOT THE CURRENT LICENSE. THE CURRENT LICENSE IS THE 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License'.
 The section you are probably interested in reading is the fourth section: *"Redistribution"* (*hereafter quoted, albeit shortened*).
-
-> Redistribution.<br>
-> 
-> You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
-> 
-> (a) You must give any other recipients of the Work or Derivative Works a copy of this License; and
-> 
-> (b) You must cause any modified files to carry prominent notices stating that You changed the files; and
-> 
-> (c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
-> 
-> (d) If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file,[...].
-> 
-> You may add Your own copyright statement to Your modifications, [...] provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.-->
