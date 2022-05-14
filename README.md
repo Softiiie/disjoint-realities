@@ -278,5 +278,5 @@ The *Disjoint Realities* are licensed under the `Attribution-NonCommercial-Share
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <!-- Remnant of the previous use of the Apache 2.0 License, i just found the phrasing cool and i don't want to loose it lol
-======> I WANT TO MAKE CLEAR THAT THIS IS NOT THE CURRENT LICENSE. THE CURRENT LICENSE IS THE 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License'.
+======> I WANT TO MAKE IT CLEAR THAT THIS IS NOT THE CURRENT LICENSE. THE CURRENT LICENSE IS THE 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License'.
 The section you are probably interested in reading is the fourth section: *"Redistribution"* (*hereafter quoted, albeit shortened*).
