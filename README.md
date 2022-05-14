@@ -177,7 +177,7 @@ From each **Structure element**'s variety of characteristics come variables, her
 ### Alternatives
 
 All Universes are of course not identical, hence why across them one may come across what can be called **Alternatives**<!-- NOT a reference to Mandela Catalogue! -->.<br>
-Alternatives can be organized in an uncountable amount of manners, although here they will be split into several categories [~~that I totally did not take from Dwarf Fortress (and its wiki) down to the description out of love for this game~~](https://dwarffortresswiki.org/index.php/DF2014:Quest#Quest_log):
+Alternatives can be organized in an uncountable amount of manners, although here they will be split into several categories [~~that I totally did not take from Dwarf Fortress (and its wiki) sometimes down to the description out of love for this game~~](https://dwarffortresswiki.org/index.php/DF2014:Quest#Quest_log):
 
 &nbsp;
 
@@ -190,7 +190,7 @@ Staples of the Universe's Canon(s), its main _"""storyline"""_.
 #### Events
 <!-- µ MERGE WITH 'Intrigue'? -->
 
-Events that are happening or have happened in the past.
+Events that have happened in the past, are happening or will happen in the future.
 
 &nbsp;
 
