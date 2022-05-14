@@ -1,12 +1,18 @@
-# DISJOINT REALITIES ; Academic branch
+# DISJOINT REALITIES
 
-> A SCP-influenced database of realities.
+> A database of ideas for Worlds, Entities and Stories.
+
+<!-- > A SCP-influenced database of realities.-->
 
 &nbsp;
 
 ## Contents:
 <!--**Contents**:-->
 - [About](#about)
+- [Styles](#styles)
+    - [Meta](#meta)
+    - [Academic](#academic)
+    - [and?](#and)
 - [Structure](#structure)
     - [Sets](#sets)
         - [Perfect Void](#perfect-void)
@@ -16,16 +22,19 @@
     - [Branches](#branches)
     - [Spores](#spores)
     - [Universes](#universes)
-- [Alternatives](#alternatives)
-    - [Intrigue](#intrigue)
-    - [Events](#events)
-    - [People](#events)
-    - [Groups](#groups)
-    - [Regions](#regions)
-    - [Sites](#sites)
-    - [Artifacts](#artifacts)
+- [Properties](#properties)
+    - [Alternatives](#alternatives)
+        - [Intrigue](#intrigue)
+        - [Events](#events)
+        - [People](#events)
+        - [Bestiary](#bestiary)
+        - [Groups](#groups)
+        - [Regions](#regions)
+        - [Sites](#sites)
+        - [Artifacts](#artifacts)
 - [Chronology](#chronology)
-    - [Canons/Timelines](#canonstimelines)
+    - [Canons](#canons)
+    - [Timelines](#timelines)
 - [Licensing](#licensing)
 
 &nbsp;
@@ -36,7 +45,65 @@
 
 ## About
 
-This repository aims at creating a database full of diverse realities, stylistically and aesthetically inspired, influenced or even "forked" from the [SCP Foundation](https://scp-wiki.wikidot.com/).
+This repository is about archiving ideas about different little Universes/Stories and the such ; all the while being presented in different writing and storytelling styles.
+
+<!--This repository aims at creating a database full of diverse realities, stylistically and aesthetically inspired, influenced or even "forked" from the [SCP Foundation](https://scp-wiki.wikidot.com/).-->
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## Styles
+
+The *Disjoint Realities* are an assembly of different little ideas for worlds, characters and stories, ultimately culminating in a database full of entries. These entries need to be presented, brought about, recorded ; which calls for writing.<br>
+As such, the writing for these entries can absolutely take about any form, meaning a lot of different writing **styles** can emerge.
+
+Here, styles both do and do not belong to litterature, as they also mainly refer to what one may call a "**P**oint **O**f **V**iew" for the writer(s).
+
+> But what does that mean?
+
+This means that each styles corresponds to a "scenario"/POV/prism through which the writer(s) *wrote* the entry.
+
+In case you aren't sure you got what Styles were, take a look at the Styles sections themselves, which might be easier to get for the non-initiated.
+
+&nbsp;
+
+### Meta
+
+The **Meta** `S`tyle is a `s`tyle in which the *Disjoint Realities* Database takes a style which could be compared to that of [Wikipedia](wikipedia.org).
+
+This means that each entry is written in the aim of creating an encyclopedia of everything in the database.
+
+It is one of (if not *the*) most "epurated" stylistic prism, as it simply *presents* all elements of the database, how they are organized and relate to each other.
+
+&nbsp;
+
+### Academic
+
+The **Academic** Style is a style in which the *Disjoint Realities* Database takes a style akin to that of the [SCP Foundation](https://scp-wiki.wikidot.com/).
+
+This means that each entry is written as if it was for research/study purposes. Being very (on point) academic, scientific and formal.
+
+In case of a doubt, simply take a look at a few [SCP Objects articles](https://scp-wiki.wikidot.com/random:random-scp), which will surely give you a brighter idea about what this Style entails.
+
+> #### NOTE:
+> The Academic Style was originally thought to be the first and "main"/default style to come, however, as the project started setting itself up, the Meta Style started to appear as a better suited first approach to the Disjoint Realities Database, and has thus replaced the Academic Style in that regard, to which the latter's development was halted **for the time being**.
+
+&nbsp;
+
+### and?
+
+More Styles (hopefully) are to come, they may not be listed "here", but should you think a little, you may find a way to check what Styles are in the workings after the Meta one...
+
+<!--
+styles to (maybe) come:
+    - Litterary
+        - Apocrypha
+        - Holy
+    - Apocalyptic
+-->
 
 &nbsp;
 
@@ -101,57 +168,63 @@ Branches do not possess leaves or any sort of variation, looking more like cones
 
 &nbsp;
 
-## Alternatives
+## Properties
 
-All Universes are of course not identical, hence why across them one may come across what can be called **Alternatives**<!-- NOT a reference to Mandela Catalogue! -->.<br>
-Alternatives can be organized in an uncountable amount of manners, although here they will be split into several categories [~~that I totally did not take from Dwarf Fortress (and its wiki) down to the description kind of out of sloth~~](https://dwarffortresswiki.org/index.php/DF2014:Quest#Quest_log):
+From each **Structure element**'s variety of characteristics come variables, herein called **Alternatives**.
 
 &nbsp;
 
-### Intrigue
+### Alternatives
+
+All Universes are of course not identical, hence why across them one may come across what can be called **Alternatives**<!-- NOT a reference to Mandela Catalogue! -->.<br>
+Alternatives can be organized in an uncountable amount of manners, although here they will be split into several categories [~~that I totally did not take from Dwarf Fortress (and its wiki) sometimes down to the description out of love for this game~~](https://dwarffortresswiki.org/index.php/DF2014:Quest#Quest_log):
+
+&nbsp;
+
+#### Intrigue
 
 Staples of the Universe's Canon(s), its main _"""storyline"""_.
 
 &nbsp;
 
-### Events
+#### Events
 <!-- µ MERGE WITH 'Intrigue'? -->
 
-Events that are happening or have happened in the past.
+Events that have happened in the past, are happening or will happen in the future.
 
 &nbsp;
 
-### People
+#### People
 
 People and other historical figures.
 
 &nbsp;
 
-### Bestiary
+#### Bestiary
 
 Creatures from around the world, along with their descriptions, where to find them, etc.
 
 &nbsp;
 
-### Groups
+#### Groups
 
 Entities, including civilizations, site governments, etc.
 
 &nbsp;
 
-### Regions
+#### Regions
 
 Regions of the world.
 
 &nbsp;
 
-### Sites
+#### Sites
 
 Various sites around the world.
 
 &nbsp;
 
-### Artifacts
+#### Artifacts
 
 Basically encompasses all objects and items ~~and I totally did not keep this section name because of Dwarf Fortress~~.
 
@@ -163,14 +236,30 @@ Basically encompasses all objects and items ~~and I totally did not keep this se
 
 ## Chronology
 
-Time is a very important factor in the Disjoint Realities:
+Time is a very important factor in the Disjoint Realities, also is it divided in two "units":
 
 &nbsp;
 
+### Canons
+
+A **Canon** is a storyline.<br>
+It creates, removes, uses [...] *properties* (Alternatives...) and concepts in order to construct said storyline's chronology.
+
+&nbsp;
+
+### Timelines
+
+A **Timeline** is a subsidiary unit to Canons.<br>
+Unlike Canons, Timelines are a *spin* on the elements and their relation/interactions used in the Canon.
+
+In the vast majority of time, Timelines will **not** create, remove, use [...] *properties* (Alternatives...) ; if they ever do, it is very often *de facto* as to avoid any discrepancy in the chronology/storyline.
+
+<!--
 ### Canons/Timelines
 
 All **Universes** follow a certain sequence of events, ultimately called a **Timeline** or a **Canon**.<br>
 Several Canons can belong to a same universe, and of course, although Canons are often viewed at the scale of Universes, they of course affect the rest of the [Structure](#structure) (*eg.* other Universes, Trees, etc).
+-->
 
 &nbsp;
 
@@ -182,20 +271,12 @@ Several Canons can belong to a same universe, and of course, although Canons are
 
 **For additional information, see the [license](LICENSE) file.**
 
-Disjoint Realities are licensed under the `Apache License 2.0`, with the credits for the original Disjoint Realities (*this very repository's content*) going to `Softiie` (*me lol*).
+The *Disjoint Realities* are licensed under the `Attribution-NonCommercial-ShareAlike 4.0 International` (`CC BY-NC-SA 4.0`), with credits for the original *Disjoint Realities* (*this very repository's content*) going to `Softiiie` (*me lol*):<br><br>
+
+<!--&nbsp;-->
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+<!-- Remnant of the previous use of the Apache 2.0 License, i just found the phrasing cool and i don't want to loose it lol (I WANT TO MAKE IT CLEAR THAT THIS IS NOT THE CURRENT LICENSE. THE CURRENT LICENSE IS THE 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License'):
 
 The section you are probably interested in reading is the fourth section: *"Redistribution"* (*hereafter quoted, albeit shortened*).
-
-> Redistribution.<br>
-> 
-> You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
-> 
-> (a) You must give any other recipients of the Work or Derivative Works a copy of this License; and
-> 
-> (b) You must cause any modified files to carry prominent notices stating that You changed the files; and
-> 
-> (c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
-> 
-> (d) If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file,[...].
-> 
-> You may add Your own copyright statement to Your modifications, [...] provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
