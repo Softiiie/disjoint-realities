@@ -72,7 +72,7 @@ In case you aren't sure you got what Styles were, take a look at the Styles sect
 
 ### Meta
 
-The **Meta** Style is a style in which the *Disjoint Realities* Database takes a style which could be compared to that of [Wikipedia](wikipedia.org).
+The **Meta** `S`tyle is a `s`tyle in which the *Disjoint Realities* Database takes a style which could be compared to that of [Wikipedia](wikipedia.org).
 
 This means that each entry is written in the aim of creating an encyclopedia of everything in the database.
 
@@ -82,7 +82,7 @@ It is one of (if not *the*) most "epurated" stylistic prism, as it simply *prese
 
 ### Academic
 
-The **Academic** `S`tyle is a `s`tyle in which the *Disjoint Realities* Database takes a style akin to that of the [SCP Foundation](https://scp-wiki.wikidot.com/).
+The **Academic** Style is a style in which the *Disjoint Realities* Database takes a style akin to that of the [SCP Foundation](https://scp-wiki.wikidot.com/).
 
 This means that each entry is written as if it was for research/study purposes. Being very (on point) academic, scientific and formal.
 
@@ -226,7 +226,7 @@ Various sites around the world.
 
 #### Artifacts
 
-Basically encompasses all objects and items ~~and I totally did not kept this section name because of Dwarf Fortress~~.
+Basically encompasses all objects and items ~~and I totally did not keep this section name because of Dwarf Fortress~~.
 
 &nbsp;
 
@@ -271,10 +271,13 @@ Several Canons can belong to a same universe, and of course, although Canons are
 
 **For additional information, see the [license](LICENSE) file.**
 
-The *Disjoint Realities* are licensed under the `Apache License 2.0`, with the credits for the original *Disjoint Realities* (*this very repository's content*) going to `Softiiie` (*me lol*):<br><br>
+The *Disjoint Realities* are licensed under the `Attribution-NonCommercial-ShareAlike 4.0 International` (`CC BY-NC-SA 4.0`), with credits for the original *Disjoint Realities* (*this very repository's content*) going to `Softiiie` (*me lol*):<br><br>
 
 <!--&nbsp;-->
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+<!-- UNUSED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 > Copyright 2022 Softiiie
 > 
 > Licensed under the Apache License, Version 2.0 (the "License");
@@ -299,4 +302,4 @@ The section you are probably interested in reading is the fourth section: *"Redi
 > 
 > (d) If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file,[...].
 > 
-> You may add Your own copyright statement to Your modifications, [...] provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+> You may add Your own copyright statement to Your modifications, [...] provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.-->
